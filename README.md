@@ -1,4 +1,6 @@
-<h1 data-importer="text" align="center">Hi 👋, I'm Fariz Eka Kurniawan<br>👩‍💻 About Me<br>Graduated in Information Technology from Brawijaya University with a strong interest in programming and knowledge in web development and database management. I have developed skills in various programming languages and frameworks including Laravel, PHP, Node.js, Database Management, and Cloud Infrastructure. I am also an alumni of Bangkit Academy 2024, taking the Cloud Computing learning path.</h1>
+<br clear="both">
+
+<h3 data-importer="text" align="left">Hi 👋, I'm Fariz Eka Kurniawan<br><br>👩‍💻 About Me<br>Graduated in Information Technology from Brawijaya University with a strong interest in programming and knowledge in web development and database management. I have developed skills in various programming languages and frameworks including Laravel, PHP, Node.js, Database Management, and Cloud Infrastructure. I am also an alumni of Bangkit Academy 2024, taking the Cloud Computing learning path.</h3>
 
 ###
 
